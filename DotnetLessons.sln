@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSpace", "DotnetLessons\NameSpace.csproj", "{4D29B41C-5A0A-4599-8FDD-ECB130F75384}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduction", "Introduction", "{38FE57C8-0C98-4D41-A969-9785B26DDB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatement", "TopLevelStatement\TopLevelStatement.csproj", "{BC653C28-9A4C-47E1-AF05-09EE8862FF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D29B41C-5A0A-4599-8FDD-ECB130F75384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D29B41C-5A0A-4599-8FDD-ECB130F75384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D29B41C-5A0A-4599-8FDD-ECB130F75384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D29B41C-5A0A-4599-8FDD-ECB130F75384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC653C28-9A4C-47E1-AF05-09EE8862FF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC653C28-9A4C-47E1-AF05-09EE8862FF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC653C28-9A4C-47E1-AF05-09EE8862FF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC653C28-9A4C-47E1-AF05-09EE8862FF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D29B41C-5A0A-4599-8FDD-ECB130F75384} = {38FE57C8-0C98-4D41-A969-9785B26DDB7A}
+		{BC653C28-9A4C-47E1-AF05-09EE8862FF8A} = {38FE57C8-0C98-4D41-A969-9785B26DDB7A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A70B772-4971-48F0-B639-19A8DAA32ED4}
+	EndGlobalSection
+EndGlobal
